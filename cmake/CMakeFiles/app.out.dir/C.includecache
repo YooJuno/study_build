@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juno/study_build/cmake/apple.c
+apple.h
+/home/juno/study_build/cmake/apple.h
+
+/home/juno/study_build/cmake/apple.h
+
+/home/juno/study_build/cmake/banana.c
+banana.h
+/home/juno/study_build/cmake/banana.h
+
+/home/juno/study_build/cmake/banana.h
+
+/home/juno/study_build/cmake/main.c
+stdio.h
+-
+

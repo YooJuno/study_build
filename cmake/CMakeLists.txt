@@ -1,0 +1,1 @@
+ADD_EXECUTABLE( app.out main.c apple.c banana.c )

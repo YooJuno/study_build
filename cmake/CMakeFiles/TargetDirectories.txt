@@ -1,0 +1,3 @@
+/home/juno/study_build/cmake/CMakeFiles/rebuild_cache.dir
+/home/juno/study_build/cmake/CMakeFiles/edit_cache.dir
+/home/juno/study_build/cmake/CMakeFiles/app.out.dir
